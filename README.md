@@ -10,4 +10,4 @@ I have analysed googleplaystore.csv file for this project
 
 This is more about exploratory data analysis
 
-You can see data cleansing and functions in this python project
+You can see data cleansing, loops and functions in this python project
